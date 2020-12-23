@@ -1,0 +1,6 @@
+purple 
+pink
+orange
+blue
+red 
+is the sequenc of rainbow colours
