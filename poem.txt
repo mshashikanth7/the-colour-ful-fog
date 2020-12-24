@@ -1,6 +1,7 @@
-purple 
-pink
-orange
-blue
-red 
+violet
+blue 
+green
+yellow
+orange 
+red
 is the sequenc of rainbow colours
